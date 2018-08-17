@@ -1,10 +1,3 @@
-## When to use ComponentDidMount? 
-
-<details>
-  <summary>Answer here</summary>
-This method is called once all our children Elements and our Component instances are mounted onto the Native UI. When this method is called we now have access to the Native UI (DOM, UIView, etc.), access to our children refs and the ability to potentially trigger a new render pass.
-</details>
-
 ## Define React component?
 
 <details>
@@ -35,7 +28,7 @@ This method is called once all our children Elements and our Component instances
     Props: an object passed from parent to child. 
 </details>
 
-##What is controlled component?
+## What is controlled component?
 
 <details>
   <summary>Answer here</summary>
@@ -69,4 +62,11 @@ This method is called once all our children Elements and our Component instances
   <summary>Answer here</summary>
   The life of a React component, from birth (pre-mounting) and death (unmounting).
   Through lifecycle methods, we can then control what happens when each tiny section of your UI renders, updates, thinks about re-rendering, and then disappears entirely.
+</details>
+
+## When to use ComponentDidMount? 
+
+<details>
+  <summary>Answer here</summary>
+This method is called once all our children Elements and our Component instances are mounted onto the Native UI. When this method is called we now have access to the Native UI (DOM, UIView, etc.), access to our children refs and the ability to potentially trigger a new render pass.
 </details>
