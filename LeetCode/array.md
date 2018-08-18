@@ -11,10 +11,9 @@
     // NOTE: we could make this function return undefined,
     // since we modify intArray in place.
     return intArray;
-    }```
-    ```javascript
-    function squareArrayOutOfPlace(intArray) {
+    }
 
+    function squareArrayOutOfPlace(intArray) {
     // We allocate a new array that we'll fill in with the new values
     const squaredArray = [];
 
