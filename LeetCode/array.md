@@ -11,8 +11,8 @@
     // NOTE: we could make this function return undefined,
     // since we modify intArray in place.
     return intArray;
-    }
-
+    }```
+    ```javascript
     function squareArrayOutOfPlace(intArray) {
 
     // We allocate a new array that we'll fill in with the new values
@@ -23,7 +23,7 @@
     });
 
     return squaredArray;
-}```
+    }```
 
   * An in-place algorithm operates directly on its input and changes it, instead of creating and returning a new object. This is sometimes called destructive, since the original input is "destroyed" when it's edited to create the new output
   But be careful: an in-place algorithm can cause side effects. 
