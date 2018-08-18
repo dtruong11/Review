@@ -2,11 +2,7 @@
 
 <details>
   <summary>Answer here</summary>
-  * An in-place algorithm operates directly on its input and changes it, instead of creating and returning a new object. This is sometimes called destructive, since the original input is "destroyed" when it's edited to create the new output
-  * But be careful: an in-place algorithm can cause side effects. 
-  * Working in-place is a good way to save space. An in-place algorithm will generally have O(1)O(1) space cost.
-  *  it means "without creating a new copy of the input." In general, an in-place function will only create additional variables that are O(1)O(1) space.
-  ```javascript 
+      ```javascript 
     function squareArrayInPlace(intArray) {
     intArray.forEach((int, index) => {
         intArray[index] *= int;
@@ -27,6 +23,11 @@
     });
 
     return squaredArray;
-}
-```
+}```
+
+  * An in-place algorithm operates directly on its input and changes it, instead of creating and returning a new object. This is sometimes called destructive, since the original input is "destroyed" when it's edited to create the new output
+  But be careful: an in-place algorithm can cause side effects. 
+  * Working in-place is a good way to save space. An in-place algorithm will generally have O(1)O(1) space cost.
+  *  it means "without creating a new copy of the input." In general, an in-place function will only create additional variables that are O(1)O(1) space.
+
 </details>
