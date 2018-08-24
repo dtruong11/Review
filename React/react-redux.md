@@ -1,3 +1,5 @@
+# REDUX REVIEW
+
 ## Define pure functions?
 
 <details>
