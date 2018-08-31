@@ -9,9 +9,10 @@
 
 <details>
   <summary>Answer here</summary>
-  <hr />
-  <input />
-  <br />
+  The answer are these tags. 
+  hr 
+  input 
+  br 
 </details>
 
 ## What is used to wrap HTML content?
@@ -25,9 +26,9 @@
 
 <details>
   <summary>Answer here</summary>
-    ```
+    The answer is 
     <link rel="stylesheet" type="text/css" href="mystyle.css">
-    ```
+    
 </details>
 
 ## Which HTML attribute is used to define inline styles?
@@ -41,14 +42,14 @@
 
 <details>
   <summary>Answer here</summary>
-    ```body {color: black;}```
+    body {color: black;}
 </details>
 
 ## How do you insert a comment in a CSS file?
 
 <details>
     <summary>Answer here</summary>
-    ``` /* this is a comment */```
+    /* this is a comment */
 </details>
 
 ## Which property is used to change the background color?
@@ -76,21 +77,21 @@
 
 <details>
     <summary>Answer here</summary>
-   ```p {font-weight:bold;}```
+   p {font-weight:bold;}
 </details>
 
 ## How do you display hyperlinks without an underline?
 
 <details>
     <summary>Answer here</summary>
-   ```a {text-decoration:none;}```
+   a {text-decoration:none;}
 </details>
 
 ## How do you make each word in a text start with a capital letter?
 
 <details>
     <summary>Answer here</summary>
-   ```text-transform:capitalize```
+  text-transform:capitalize
 </details>
 
 ## Which property is used to change the font of an element?
@@ -120,14 +121,14 @@
 
 <details>
     <summary>Answer here</summary>
-    ```list-style-type: square;```
+    list-style-type: square;
 </details>
 
 ## How do you select all p elements inside a div element?
 
 <details>
     <summary>Answer here</summary>
-    ```div p```
+    div p
 </details>
 
 ## How do you display a border like this:
@@ -139,7 +140,7 @@ The right border = 1pixel?
 ```
 <details>
     <summary>Answer here</summary>
-    ```border-width:10px 1px 5px 20px```
+    border-width:10px 1px 5px 20px
 </details>
 
 
@@ -156,7 +157,7 @@ The right border = 1pixel?
 
 <details>
     <summary>Answer here</summary>
-    ```<head>```
+    The <head> tag
 </details>
 
 ## What is the default position property?
