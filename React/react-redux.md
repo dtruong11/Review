@@ -1,3 +1,5 @@
+# REDUX REVIEW
+
 ## Define pure functions?
 
 <details>
@@ -10,7 +12,7 @@
 
 <details>
     <summary>Answer here</summary>
- 
+ 	
     ```javascript
         import React from 'react';
         import ReactDOM from 'react-dom';
@@ -28,9 +30,8 @@
         document.getElementById('root')
         );
         registerServiceWorker()
-        
     ```
-    make the store available to all container components in the application without passing it explicitly. You only need to use it once when you render the root component:
+    make the store available to all container components in the application without passing it explicitly. You only need to use it 	once when you render the root component:
 </details>
 
 
@@ -43,8 +44,7 @@
     It accepts a function as its argument. 
     Action creators often trigger a dispatch when invoked. 
     
-
-    ```javascript  
+    ```  
         function addTodoWithDispatch(text) {
         const action = {
             type: ADD_TODO,
@@ -94,7 +94,7 @@
 </details>
 
 
-
+# REACT ROUTER REVIEW
 
 ## Define Switch/Route
 
