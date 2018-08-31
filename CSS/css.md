@@ -157,7 +157,7 @@ The right border = 1pixel?
 
 <details>
     <summary>Answer here</summary>
-    The <head> tag
+    The head tag
 </details>
 
 ## What is the default position property?
