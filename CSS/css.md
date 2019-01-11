@@ -12,7 +12,7 @@
   The answer are these tags. 
   hr 
   input 
-  br 
+  br - break line 
 </details>
 
 ## What is used to wrap HTML content?
